@@ -1,0 +1,17 @@
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Application.deps.json
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Application.dll
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Application.pdb
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Domain.dll
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Domain.pdb
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.csproj.CopyComplete
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.dll
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\refint\ETicaret.Application.dll
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.pdb
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ref\ETicaret.Application.dll
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Application.runtimeconfig.json
+C:\Users\ahmet\source\repos\ETicaret\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.genruntimeconfig.cache
